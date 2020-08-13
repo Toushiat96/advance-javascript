@@ -1,5 +1,5 @@
 const first = 1;
-
+// const second = "2";
 const second = true;
 
 if (first == second) {
